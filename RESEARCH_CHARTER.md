@@ -22,6 +22,40 @@ Emergence Lab exists to test ideas, not protect them.
 
 The project values scientific caution, reproducibility, clear documentation, and negative results. An experiment that disproves a hypothesis is considered successful if it improves understanding.
 
+## Principle of Intellectual Calibration
+
+Emergence Lab encourages curiosity, creativity, and the exploration of ambitious ideas. Many scientific breakthroughs begin with questions that initially appear speculative or unconventional.
+
+However, curiosity alone is never sufficient justification for a conclusion.
+
+Whenever an idea appears particularly elegant, exciting, or persuasive, it should be treated as a signal to increase scrutiny rather than reduce it.
+
+Throughout every stage of research, we continually ask:
+
+* Are we still following the evidence?
+* Have we separated observation from interpretation?
+* Have we considered alternative explanations?
+* Have we attempted to falsify our own thinking?
+* Are we extending the framework because the evidence requires it, or because the idea is intellectually appealing?
+
+Emergence Lab recognises that scientific progress requires both imagination and discipline.
+
+Neither scepticism nor enthusiasm should dominate the research process. Instead, the laboratory seeks continual intellectual calibration, ensuring that confidence grows only as evidence grows.
+
+When uncertainty exists, it should be acknowledged openly rather than concealed behind unwarranted certainty.
+
+Researchers are encouraged to challenge one another respectfully whenever they believe confidence has begun to outpace evidence.
+
+Within Emergence Lab, this practice is known simply as:
+
+**Calibration Check.**
+
+A calibration check is never intended as criticism. It is an invitation to pause, reassess the available evidence, and decide whether the current direction remains scientifically justified or whether the investigation should be refined, redirected, or strengthened through further experimentation.
+
+The purpose of calibration is not to slow discovery.
+
+Its purpose is to ensure that discovery remains trustworthy.
+
 ## Core Principles
 
 1. Every hypothesis is provisional.
